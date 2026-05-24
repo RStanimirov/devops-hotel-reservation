@@ -13,3 +13,15 @@ Each team member implements different functionality locally (each member has its
 •	Member #3: Admin's functionality (Guest Details Form)
 •	Member #3: Verifier's functionality (Confirm Reservation Form)
 You should have a separate branch in GitHub for each functionality, e.g., each member should have a branch of their own.
+
+In summary, the workflow is as follows:
+
+We have hotel-reservation as the main branch, and we want four feature branches:
+
+search-form
+offer-form
+reservation-form
+guest-form
+
+Then later we shall merge them into the main branch.
+
